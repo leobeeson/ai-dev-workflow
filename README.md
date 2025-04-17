@@ -172,6 +172,10 @@ If you use Cursor, there's an interesting tool called [claude-task-master](https
 - [How I reduced 90% errors for my Cursor (+ any other AI IDE)](https://www.youtube.com/watch?v=1L509JK8p1I)
 - [How I Made Cursor 99% More Effective (Task Master is The Move in 2025)](https://www.youtube.com/watch?v=R5kF70d_jCY)
 
+Other AI-Powered Developer Tools:
+
+- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
+
 ## Contributing
 
 If you enhance these prompts or develop additional ones for specialized domains, please consider contributing them back to this repository.
