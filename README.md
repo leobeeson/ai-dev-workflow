@@ -154,7 +154,20 @@ For a rapidly expanding list of available MCP tools, check out [MCP's official s
 
 ## Other Resources
 
-If you use Cursor, there's an interesting tool called [claude-task-master](https://github.com/eyaltoledano/claude-task-master):
+The best course I've taken for AI Development Tool and AI-Assisted Development Workflows (I have no association nor financial interest in it):
+
+- [Principled AI Coding](https://agenticengineer.com/principled-ai-coding)
+
+This course is by IndyDevDan. Highly recommend his channel for AI development tools and workflows:
+
+- [IndyDevDan](https://www.youtube.com/@indydevdan)
+
+My favourite channel and community for AI Engineers and Data Developers:
+
+- [Dave Ebbelaar](https://www.youtube.com/@daveebbelaar)
+- [Datalumina](https://www.datalumina.com/data-freelancer)
+
+If you use Cursor, there's an interesting tool called [claude-task-master](https://github.com/eyaltoledano/claude-task-master) for task management for AI assisted development:
 
 - [How I reduced 90% errors for my Cursor (+ any other AI IDE)](https://www.youtube.com/watch?v=1L509JK8p1I)
 - [How I Made Cursor 99% More Effective (Task Master is The Move in 2025)](https://www.youtube.com/watch?v=R5kF70d_jCY)
